@@ -97,9 +97,13 @@ Actualmente estoy desarrollando un **ERP para un club de tenis**, donde aplico y
 ## 📸 Vistazo al proyecto
 
 <p align="center">
-<img src="assets/erp_jugadores.png" alt="Gestión de jugadores" width="400"/>
-<img src="assets/erp_ligas.png" alt="Vista de ligas" width="400"/>
-<img src="assets/erp_calendario.png" alt="Calendario de partidos" width="400"/>
+![TennisERP](https://github.com/user-attachments/assets/19b149d8-a9ec-4def-8e14-31982fe6666a)
+![NVIDIA_Overlay_yGWFsi5nuU](https://github.com/user-attachments/assets/1f4a401f-f864-4a7c-b018-5b4a803834e3)
+![NVIDIA_Overlay_P7hv9jegCq](https://github.com/user-attachments/assets/60f9bd7e-b14d-4e44-849e-bcb443f80a4c)
+![NVIDIA_Overlay_ET18Vt3rAN](https://github.com/user-attachments/assets/bfaade20-b2c9-430c-ae45-1a4a91f65fca)
+![NVIDIA_Overlay_udBDp9s8I5](https://github.com/user-attachments/assets/51660ca8-ed11-433b-a752-802f5c52e626)
+![NVIDIA_Overlay_rXIJ0PX2yU](https://github.com/user-attachments/assets/43a2e6ac-911b-436d-8267-08f281848a3f)
+
 </p>
 
 ---

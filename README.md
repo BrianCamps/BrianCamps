@@ -27,10 +27,10 @@
 
 ## 🛠️ Technical Skills y Soft Skills
 
-<table align="center">
+<table>
 <tr>
-<td align="right">
-  
+<td valign="top">
+
 ### 💻 Tecnologías
 
 - Java
@@ -43,7 +43,7 @@
 - MySQL / MongoDB
 
 </td>
-<td align="right">
+<td valign="top">
 
 ### 🧩 Soft Skills
 
@@ -57,7 +57,7 @@
 - Trabajo bajo presión
 
 </td>
-<td align="right">
+<td valign="top">
 
 ### ⚙️ Herramientas
 
@@ -66,7 +66,7 @@
 - Adobe Photoshop
 - Diseño web
 - Diseño de bases de datos
-- POO
+- Programación orientada a objetos (POO)
 - Patrones de arquitectura
 - Manejo de TPV
 
@@ -85,6 +85,6 @@
 
 ## ✨ ¿Qué busco?
 
-Estoy en búsqueda de una oportunidad para **mi primer empleo como desarrollador junior**, aportar mi energía, compromiso y ganas de aprender en proyectos reales mientras sigo desarrollando mis habilidades como **Full Stack Developer**.
+Estoy en búsqueda de una oportunidad para **mi primer empleo como desarrollador junior**, aportar mi energía, compromiso y ganas de aprender en proyectos reales, mientras sigo desarrollando mis habilidades como **Full Stack Developer**.
 
 ¡Gracias por visitar mi perfil! 🚀

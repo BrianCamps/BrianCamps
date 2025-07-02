@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">👋 ¡Hola! Soy Brian Camps.</h1>
 
-<p align="center">
+<p align="left">
 🎯 <strong>Desarrollador Junior Full Stack</strong> con base sólida en <strong>Java, Spring Boot, MySQL, MongoDB y Tailwind CSS</strong>.<br>
 🛠️ Apasionado por resolver problemas reales, aprender tecnologías nuevas y construir soluciones funcionales en equipo.<br>
 💡 Creo en el valor de la actitud. Las aptitudes se desarrollan con formación y experiencia, pero la actitud se demuestra cada día, con compromiso, curiosidad y ganas de mejorar

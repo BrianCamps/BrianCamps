@@ -4,7 +4,7 @@
 <p align="center">
 🎯 <strong>Desarrollador Junior Full Stack</strong> con base sólida en <strong>Java, Spring Boot, MySQL, MongoDB y Tailwind CSS</strong>.<br>
 🛠️ Apasionado por resolver problemas reales, aprender tecnologías nuevas y construir soluciones funcionales en equipo.<br>
-💡 Creo que <em>la actitud se demuestra cada día</em> con compromiso, curiosidad y ganas de mejorar.
+💡 Creo en el valor de la actitud. Las aptitudes se desarrollan con formación y experiencia, pero la actitud se demuestra cada día, con compromiso, curiosidad y ganas de mejorar
 
 <br>
 

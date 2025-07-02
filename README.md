@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Skills en 3 columnas
+## 🛠️ Technical Skills y Soft Skills
 
 <table>
 <tr>
@@ -72,6 +72,7 @@
 </td>
 </tr>
 </table>
+
 ---
 
 ## 📫 Conecta conmigo

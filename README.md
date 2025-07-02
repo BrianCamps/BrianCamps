@@ -24,15 +24,54 @@
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Skills en 3 columnas
 
-- **Lenguajes**: Java, JavaScript, Kotlin
-- **Backend**: Spring Boot
-- **Frontend**: HTML, CSS, Tailwind CSS
-- **Bases de datos**: MySQL, MongoDB
-- **Control de versiones**: Git, GitHub, GitLab
-- **Gestión de proyectos**: Trello, metodologías Agile
+<table>
+<tr>
+<td align="center">
+  
+### 💻 Tecnologías
 
+- Java
+- JavaScript
+- Kotlin
+- HTML / HTML5
+- CSS / Tailwind CSS
+- XML
+- Spring Boot
+- MySQL / MongoDB
+
+</td>
+<td align="center">
+
+### 🧩 Soft Skills
+
+- Trabajo en equipo
+- Liderazgo de equipos
+- Resolución de problemas
+- Gestión de proyectos
+- Agilidad operativa
+- Gestión de personal
+- Comunicación efectiva
+- Trabajo bajo presión
+
+</td>
+<td align="center">
+
+### ⚙️ Herramientas
+
+- Git / GitHub / GitLab
+- Trello (Agile)
+- Adobe Photoshop
+- Diseño web
+- Diseño de bases de datos
+- Programación orientada a objetos (POO)
+- Patrones de arquitectura
+- Manejo de TPV
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📫 Conecta conmigo

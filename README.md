@@ -77,3 +77,29 @@
 Estoy en búsqueda de una oportunidad para **mi primer empleo como desarrollador junior**, aportar mi energía, compromiso y ganas de aprender en proyectos reales, mientras sigo desarrollando mis habilidades como **Full Stack Developer**.
 
 ¡Gracias por visitar mi perfil! 🚀
+
+---
+
+## 🚧 Proyecto actual: ERP para Club de Tenis 🎾
+
+Actualmente estoy desarrollando un **ERP para un club de tenis**, donde aplico y amplío mis conocimientos como **Project Manager y Full Stack Developer**:
+
+- 🛠️ **Backend:** Java + Spring Boot, arquitectura modular, control de usuarios y roles.
+- 🎨 **Frontend:** Tailwind CSS y HTML, interfaces limpias y funcionales.
+- 🗂️ **Bases de datos:** MySQL y MongoDB.
+- 🗓️ Módulos de gestión de jugadores, ligas, categorías, equipos calendario de partidos e inscripciones.
+- 📈 Metodología **Agile con Trello** y control de versiones con GitHub.
+- 🤝 Comunicación constante con el cliente para definir requisitos reales y crear funcionales personalizadas.
+- 🎯 Objetivo: Mejorar procesos de gestión y digitalización.
+
+---
+
+## 📸 Vistazo al proyecto
+
+<p align="center">
+<img src="assets/erp_jugadores.png" alt="Gestión de jugadores" width="400"/>
+<img src="assets/erp_ligas.png" alt="Vista de ligas" width="400"/>
+<img src="assets/erp_calendario.png" alt="Calendario de partidos" width="400"/>
+</p>
+
+---

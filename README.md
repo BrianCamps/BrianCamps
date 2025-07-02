@@ -6,11 +6,12 @@
 🛠️ Apasionado por resolver problemas reales, aprender tecnologías nuevas y construir soluciones funcionales en equipo.<br>
 💡 Creo que <em>la actitud se demuestra cada día</em> con compromiso, curiosidad y ganas de mejorar.
 
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BrianCampsMartinez-blue?logo=linkedin)](https://www.linkedin.com/in/briancampsmartinez/)
 [![GitHub](https://img.shields.io/badge/GitHub-BrianCamps-black?logo=github)](https://github.com/BrianCamps)
 
 </p>
-
 </div>
 
 ---
@@ -26,9 +27,9 @@
 
 ## 🛠️ Technical Skills y Soft Skills
 
-<table>
+<table align="center">
 <tr>
-<td align="center">
+<td align="right">
   
 ### 💻 Tecnologías
 
@@ -42,7 +43,7 @@
 - MySQL / MongoDB
 
 </td>
-<td align="center">
+<td align="right">
 
 ### 🧩 Soft Skills
 
@@ -56,7 +57,7 @@
 - Trabajo bajo presión
 
 </td>
-<td align="center">
+<td align="right">
 
 ### ⚙️ Herramientas
 
@@ -65,7 +66,7 @@
 - Adobe Photoshop
 - Diseño web
 - Diseño de bases de datos
-- Programación orientada a objetos (POO)
+- POO
 - Patrones de arquitectura
 - Manejo de TPV
 
@@ -84,6 +85,6 @@
 
 ## ✨ ¿Qué busco?
 
-Estoy en búsqueda de una oportunidad para **mi primer empleo como desarrollador junior**, aportar mi energía, compromiso y ganas de aprender en proyectos reales, mientras sigo desarrollando mis habilidades como **Full Stack Developer**.
+Estoy en búsqueda de una oportunidad para **mi primer empleo como desarrollador junior**, aportar mi energía, compromiso y ganas de aprender en proyectos reales mientras sigo desarrollando mis habilidades como **Full Stack Developer**.
 
 ¡Gracias por visitar mi perfil! 🚀

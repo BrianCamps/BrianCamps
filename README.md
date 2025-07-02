@@ -76,13 +76,6 @@
 
 ---
 
-## 📫 Conecta conmigo
-
-- [LinkedIn](https://www.linkedin.com/in/briancampsmartinez/)
-- [GitHub](https://github.com/BrianCamps)
-
----
-
 ## ✨ ¿Qué busco?
 
 Estoy en búsqueda de una oportunidad para **mi primer empleo como desarrollador junior**, aportar mi energía, compromiso y ganas de aprender en proyectos reales, mientras sigo desarrollando mis habilidades como **Full Stack Developer**.

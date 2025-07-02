@@ -1,16 +1,12 @@
 <div align="center">
 <h1 align="center">👋 ¡Hola! Soy Brian Camps.</h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BrianCampsMartinez-blue?logo=linkedin)](https://www.linkedin.com/in/briancampsmartinez/)
+[![GitHub](https://img.shields.io/badge/GitHub-BrianCamps-black?logo=github)](https://github.com/BrianCamps)
 
 <p align="left">
 🎯 <strong>Desarrollador Junior Full Stack</strong> con base sólida en <strong>Java, Spring Boot, MySQL, MongoDB y Tailwind CSS</strong>.<br>
 🛠️ Apasionado por resolver problemas reales, aprender tecnologías nuevas y construir soluciones funcionales en equipo.<br>
 💡 Creo en el valor de la actitud. Las aptitudes se desarrollan con formación y experiencia, pero la actitud se demuestra cada día, con compromiso, curiosidad y ganas de mejorar
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BrianCampsMartinez-blue?logo=linkedin)](https://www.linkedin.com/in/briancampsmartinez/)
-[![GitHub](https://img.shields.io/badge/GitHub-BrianCamps-black?logo=github)](https://github.com/BrianCamps)
-
 </p>
 </div>
 

@@ -1,62 +1,49 @@
 <div align="center">
+<h1 align="center">👋 ¡Hola! Soy Brian Camps.</h1>
 
-# 👋 Hello, I'm Brian!
-
-🎓 **Junior Full-Stack Developer | Java, Spring Boot, Android**  
-🚀 **Building projects that help people and improve processes**
+<p align="center">
+🎯 <strong>Desarrollador Junior Full Stack</strong> con base sólida en <strong>Java, Spring Boot, MySQL, MongoDB y Tailwind CSS</strong>.<br>
+🛠️ Apasionado por resolver problemas reales, aprender tecnologías nuevas y construir soluciones funcionales en equipo.<br>
+💡 Creo que <em>la actitud se demuestra cada día</em> con compromiso, curiosidad y ganas de mejorar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BrianCampsMartinez-blue?logo=linkedin)](https://www.linkedin.com/in/briancampsmartinez/)
 [![GitHub](https://img.shields.io/badge/GitHub-BrianCamps-black?logo=github)](https://github.com/BrianCamps)
+
+</p>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Sobre mí
 
-### 📊 Cleverp (ERP Java + Spring Boot)
-[![Cleverp Video](https://img.youtube.com/vi/PCdqI4V3fZI/0.jpg)](https://www.youtube.com/watch?v=PCdqI4V3fZI)
-- Developed an ERP for a sports club using Java, Spring Boot, MySQL & MongoDB.
-- Managed the project with Agile methodology and Trello.
-- Designed a clean UI with Tailwind CSS.
-- **[Documentation](https://docs.google.com/document/d/1I0Hu-Jcqx6xZYhQc6PcJYze6ifVhUOp42OqhjH-_UNs/edit?usp=sharing)**
-
-### 📱 School Quest (Android App)
-[![School Quest Video](https://img.youtube.com/vi/Kq8xfwZluA8/0.jpg)](https://www.youtube.com/watch?v=Kq8xfwZluA8)
-- Android app developed with Kotlin for student organization.
-- Features tasks, schedules, and reminders.
-- **[Documentation](https://docs.google.com/document/d/1-Ym7iMVhLkVypdZnu8ka4tULFh0VfHfZjvvicdUvOwQ/edit?usp=sharing)**
+- 🎓 **Técnico en Desarrollo de Aplicaciones Multiplataforma** (Institut Nicolau Copèrnic).
+- 👨‍💻 He desarrollado un sistema **ERP para un club deportivo**, coordinando el proyecto y construyendo módulos de gestión de usuarios, ligas y calendario con **Java + Spring Boot** en el backend y **Tailwind CSS** en el frontend.
+- 🛍️ Más de **8 años de experiencia en IKEA**, donde he liderado equipos, resuelto incidencias en entornos dinámicos y gestionado operaciones de caja con eficacia.
+- 🌱 Actualmente sigo aprendiendo **React**, **PHP**, **Angular** y patrones de arquitectura de software para seguir creciendo como Full Stack Developer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías y herramientas
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
+- **Lenguajes**: Java, JavaScript, Kotlin
+- **Backend**: Spring Boot
+- **Frontend**: HTML, CSS, Tailwind CSS
+- **Bases de datos**: MySQL, MongoDB
+- **Control de versiones**: Git, GitHub, GitLab
+- **Gestión de proyectos**: Trello, metodologías Agile
 
 ---
 
-## ✨ About Me
+## 📫 Conecta conmigo
 
-- 🧩 **Junior Full-Stack Developer** passionate about building real projects.
-- 🪄 Currently focusing on **Java + Spring Boot**, Android, and clean architecture.
-- 📚 Learning **cloud technologies** and expanding frontend skills.
-- 🛠️ 8+ years of **team leadership & problem-solving** at IKEA.
-- ❤️ I believe **attitude and curiosity are key to keep growing** in tech.
+- [LinkedIn](https://www.linkedin.com/in/briancampsmartinez/)
+- [GitHub](https://github.com/BrianCamps)
 
 ---
 
-## 📸 Visual Gallery
+## ✨ ¿Qué busco?
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91496890/232930247-4e108a81-65dc-4fcb-9432-c2ab7a586c32.png" width="250"/>
-  <img src="https://user-images.githubusercontent.com/91
+Estoy en búsqueda de una oportunidad para **mi primer empleo como desarrollador junior**, aportar mi energía, compromiso y ganas de aprender en proyectos reales, mientras sigo desarrollando mis habilidades como **Full Stack Developer**.
+
+¡Gracias por visitar mi perfil! 🚀

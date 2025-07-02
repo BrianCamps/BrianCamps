@@ -97,13 +97,12 @@ Actualmente estoy desarrollando un **ERP para un club de tenis**, donde aplico y
 ## 📸 Vistazo al proyecto
 
 <p align="center">
-![TennisERP](https://github.com/user-attachments/assets/19b149d8-a9ec-4def-8e14-31982fe6666a)
-![NVIDIA_Overlay_yGWFsi5nuU](https://github.com/user-attachments/assets/1f4a401f-f864-4a7c-b018-5b4a803834e3)
-![NVIDIA_Overlay_P7hv9jegCq](https://github.com/user-attachments/assets/60f9bd7e-b14d-4e44-849e-bcb443f80a4c)
-![NVIDIA_Overlay_ET18Vt3rAN](https://github.com/user-attachments/assets/bfaade20-b2c9-430c-ae45-1a4a91f65fca)
-![NVIDIA_Overlay_udBDp9s8I5](https://github.com/user-attachments/assets/51660ca8-ed11-433b-a752-802f5c52e626)
-![NVIDIA_Overlay_rXIJ0PX2yU](https://github.com/user-attachments/assets/43a2e6ac-911b-436d-8267-08f281848a3f)
-
+  <img src="https://github.com/user-attachments/assets/19b149d8-a9ec-4def-8e14-31982fe6666a" alt="TennisERP" width="400"/>
+  <img src="https://github.com/user-attachments/assets/1f4a401f-f864-4a7c-b018-5b4a803834e3" alt="NVIDIA Overlay 1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/60f9bd7e-b14d-4e44-849e-bcb443f80a4c" alt="NVIDIA Overlay 2" width="400"/>
+  <img src="https://github.com/user-attachments/assets/bfaade20-b2c9-430c-ae45-1a4a91f65fca" alt="NVIDIA Overlay 3" width="400"/>
+  <img src="https://github.com/user-attachments/assets/51660ca8-ed11-433b-a752-802f5c52e626" alt="NVIDIA Overlay 4" width="400"/>
+  <img src="https://github.com/user-attachments/assets/43a2e6ac-911b-436d-8267-08f281848a3f" alt="NVIDIA Overlay 5" width="400"/>
 </p>
 
 ---

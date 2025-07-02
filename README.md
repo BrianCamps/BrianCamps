@@ -98,7 +98,7 @@ Actualmente estoy desarrollando un **ERP para un club de tenis**, donde aplico y
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/19b149d8-a9ec-4def-8e14-31982fe6666a" alt="TennisERP" width="400"/>
-  <img src="https://github.com/user-attachments/assets/1f4a401f-f864-4a7c-b018-5b4a803834e3" alt="NVIDIA Overlay 1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/92480048-f5b9-427f-a637-9a6c7a64236b" alt="NVIDIA Overlay 1" width="400"/>
   <img src="https://github.com/user-attachments/assets/60f9bd7e-b14d-4e44-849e-bcb443f80a4c" alt="NVIDIA Overlay 2" width="400"/>
   <img src="https://github.com/user-attachments/assets/bfaade20-b2c9-430c-ae45-1a4a91f65fca" alt="NVIDIA Overlay 3" width="400"/>
   <img src="https://github.com/user-attachments/assets/51660ca8-ed11-433b-a752-802f5c52e626" alt="NVIDIA Overlay 4" width="400"/>

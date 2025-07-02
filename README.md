@@ -80,29 +80,38 @@ Estoy en búsqueda de una oportunidad para **mi primer empleo como desarrollador
 
 ---
 
-## 🚧 Proyecto actual: ERP para Club de Tenis 🎾
-
-Actualmente estoy desarrollando un **ERP para un club de tenis**, donde aplico y amplío mis conocimientos como **Project Manager y Full Stack Developer**:
-
-- 🛠️ **Backend:** Java + Spring Boot, arquitectura modular, control de usuarios y roles.
-- 🎨 **Frontend:** Tailwind CSS y HTML, interfaces limpias y funcionales.
-- 🗂️ **Bases de datos:** MySQL y MongoDB.
-- 🗓️ Módulos de gestión de jugadores, ligas, categorías, equipos calendario de partidos e inscripciones.
-- 📈 Metodología **Agile con Trello** y control de versiones con GitHub.
-- 🤝 Comunicación constante con el cliente para definir requisitos reales y crear funcionales personalizadas.
-- 🎯 Objetivo: Mejorar procesos de gestión y digitalización.
-
----
-
 ## 📸 Vistazo al proyecto
 
+A continuación comparto capturas del **ERP del Club de Tenis**, mostrando diferentes módulos desarrollados:
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/19b149d8-a9ec-4def-8e14-31982fe6666a" alt="TennisERP" width="400"/>
-  <img src="https://github.com/user-attachments/assets/92480048-f5b9-427f-a637-9a6c7a64236b" alt="NVIDIA Overlay 1" width="400"/>
-  <img src="https://github.com/user-attachments/assets/60f9bd7e-b14d-4e44-849e-bcb443f80a4c" alt="NVIDIA Overlay 2" width="400"/>
-  <img src="https://github.com/user-attachments/assets/bfaade20-b2c9-430c-ae45-1a4a91f65fca" alt="NVIDIA Overlay 3" width="400"/>
-  <img src="https://github.com/user-attachments/assets/51660ca8-ed11-433b-a752-802f5c52e626" alt="NVIDIA Overlay 4" width="400"/>
-  <img src="https://github.com/user-attachments/assets/43a2e6ac-911b-436d-8267-08f281848a3f" alt="NVIDIA Overlay 5" width="400"/>
+  <img src="https://github.com/user-attachments/assets/19b149d8-a9ec-4def-8e14-31982fe6666a" alt="Login y registro de usuarios" width="400"/><br>
+  <strong>🔐 Pantalla de login y registro de usuarios</strong>: Gestión de acceso con validaciones y control de roles.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/92480048-f5b9-427f-a637-9a6c7a64236b" alt="Panel de administración" width="400"/><br>
+  <strong>🛠️ Panel de administración</strong>: Vista general para gestionar usuarios, ligas, equipos y calendario de partidos.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60f9bd7e-b14d-4e44-849e-bcb443f80a4c" alt="Gestión de ligas y categorías" width="400"/><br>
+  <strong>🎾 Gestión de ligas y categorías</strong>: Crear, editar y asignar jugadores a ligas y categorías según rangos de edad.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bfaade20-b2c9-430c-ae45-1a4a91f65fca" alt="Calendario de partidos" width="400"/><br>
+  <strong>📅 Calendario de partidos</strong>: Visualización de partidos programados, con control de fechas y horarios.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51660ca8-ed11-433b-a752-802f5c52e626" alt="Gestión de equipos" width="400"/><br>
+  <strong>👥 Gestión de equipos</strong>: Asignación de jugadores a equipos, configuración de titulares y suplentes.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/43a2e6ac-911b-436d-8267-08f281848a3f" alt="Estadísticas y resumen" width="400"/><br>
+  <strong>📊 Estadísticas y resumen</strong>: Resumen de actividad, partidos jugados y rendimiento de jugadores.
 </p>
 
 ---

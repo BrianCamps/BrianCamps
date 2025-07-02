@@ -20,8 +20,8 @@
 
 - 🎓 **Técnico en Desarrollo de Aplicaciones Multiplataforma** (Institut Nicolau Copèrnic).
 - 👨‍💻 He desarrollado un sistema **ERP para un club deportivo**, coordinando el proyecto y construyendo módulos de gestión de usuarios, ligas y calendario con **Java + Spring Boot** en el backend y **Tailwind CSS** en el frontend.
-- 🛍️ Más de **8 años de experiencia en IKEA**, donde he liderado equipos, resuelto incidencias en entornos dinámicos y gestionado operaciones de caja con eficacia.
-- 🌱 Actualmente sigo aprendiendo **React**, **PHP**, **Angular** y patrones de arquitectura de software para seguir creciendo como Full Stack Developer.
+- 🛍️ Más de **8 años de experiencia en IKEA**, donde he liderado y supervisado equipos, resuelto y gestionado incidencias en entornos dinámicos y exigentes.
+- 🌱 Actualmente sigo aprendiendo **React**, **PHP**, **Angular**, patrones de arquitectura de software y mas, para seguir creciendo como Full Stack Developer.
 
 ---
 

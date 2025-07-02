@@ -51,8 +51,6 @@
 - Liderazgo de equipos
 - Resolución de problemas
 - Gestión de proyectos
-- Agilidad operativa
-- Gestión de personal
 - Comunicación efectiva
 - Trabajo bajo presión
 
@@ -63,12 +61,10 @@
 
 - Git / GitHub / GitLab
 - Trello (Agile)
-- Adobe Photoshop
 - Diseño web
 - Diseño de bases de datos
 - Programación orientada a objetos (POO)
 - Patrones de arquitectura
-- Manejo de TPV
 
 </td>
 </tr>

@@ -15,12 +15,11 @@
 
 ### 📊 Cleverp (ERP Java + Spring Boot)
 [![Cleverp Video](https://img.youtube.com/vi/PCdqI4V3fZI/0.jpg)](https://www.youtube.com/watch?v=PCdqI4V3fZI)
-- **Documentation:** [Read here](https://docs.google.com/document/d/1cWXQ7ezPg-sMNE9JLWClUbUJsyvL7E22gSF27IV2H2M/edit#heading=h.91jk9frw27sb)
+- **Documentation:** [Read here](https://docs.google.com/document/d/1-Ym7iMVhLkVypdZnu8ka4tULFh0VfHfZjvvicdUvOwQ/edit?usp=sharing)
 
 ### 📱 School Quest (Android App)
 [![School Quest Video](https://img.youtube.com/vi/Kq8xfwZluA8/0.jpg)](https://www.youtube.com/watch?v=Kq8xfwZluA8)
-- **Play Store:** [Download here](https://play.google.com/store/apps/details?id=com.squest.schoolquest)
-- **Documentation:** [Read here](https://docs.google.com/document/d/1-8_msmNIkf8PBoie1wNSiQv_DNjFEL184rGtAv92KkQ/edit#heading=h.ekdv5ebyxdy6)
+- **Documentation:** [Read here](https://docs.google.com/document/d/1-Ym7iMVhLkVypdZnu8ka4tULFh0VfHfZjvvicdUvOwQ/edit?usp=sharing)
 
 ---
 

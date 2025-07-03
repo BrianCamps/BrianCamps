@@ -139,7 +139,7 @@ A continuación comparto capturas del **ERP del Club de Tenis**, mostrando difer
   <img src="https://github.com/user-attachments/assets/f4990dda-dd7b-4e45-8a3b-eec7e9e2e383" alt="Logo School Quest" width="150"/>
 </p>
 
-Aplicación móvil desarrollada con **Kotlin para Android**, utilizando **Firebase** como backend para autenticación y almacenamiento de datos. Diseñada para que **profesores pudieran crear retos y tareas que los alumnos completaran**, incorporando un **sistema de premios, ranking y puntuaciones** para motivar el aprendizaje de forma divertida e interactiva.
+Aplicación móvil desarrollada con **Kotlin para Android**, utilizando **Firebase** como plataforma Backend-as-a-Service para autenticación y almacenamiento de datos. Diseñada para que **profesores pudieran crear retos y tareas que los alumnos completaran**, incorporando un **sistema de premios, ranking y puntuaciones** para motivar el aprendizaje de forma divertida e interactiva.
 
 - 🎥 **[Ver demo en vídeo](https://drive.google.com/file/d/1r3ca30jJdivdAt7sYKUimxxR03NKPMHU/view?usp=sharing)**
 

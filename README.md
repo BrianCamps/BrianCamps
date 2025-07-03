@@ -105,7 +105,7 @@ A continuación comparto capturas del **ERP del Club de Tenis**, mostrando difer
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ca7ebf21-00a6-4110-b5d7-23bcc795a072" alt="Panel de administración" width="600"/><br>
-  <strong>🖥️ Panel de administración</strong>: Vista general para gestionar usuarios, ligas, equipos, eventos y calendario de partidos.
+  <strong>🖥️ Panel de administración</strong>: Vista general para gestionar usuarios, jugadores, roles, ligas, categorías equipos.
 </p>
 
 

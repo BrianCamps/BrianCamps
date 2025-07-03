@@ -130,3 +130,21 @@ A continuación comparto capturas del **ERP del Club de Tenis**, mostrando difer
 </p>
 
 ---
+
+## 🎓 Proyectos académicos
+
+### 📱 Android App: School Quest
+
+Aplicación móvil desarrollada con **Kotlin para Android**, utilizando **Firebase** como backend para autenticación y almacenamiento de datos. Fue publicada en **Google Play Store** como proyecto académico final, destacando el trabajo en equipo, la planificación ágil y el diseño de una interfaz intuitiva para la gestión de clases, exámenes y tareas de estudiantes.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Kq8xfwZluA8" target="_blank">
+    <img src="https://img.youtube.com/vi/Kq8xfwZluA8/0.jpg" alt="School Quest - YouTube Video" width="600"/>
+  </a>
+</p>
+
+- 📱 **[Descargar en Play Store](https://play.google.com/store/apps/details?id=com.squest.schoolquest)**
+- 📄 **[Ver documentación](https://docs.google.com/document/d/1-8_msmNIkf8PBoie1wNSiQv_DNjFEL184rGtAv92KkQ/edit#heading=h.ekdv5ebyxdy6)**
+
+---
+

@@ -80,6 +80,18 @@ Estoy en búsqueda de una oportunidad para **mi primer empleo como desarrollador
 
 ---
 
+## 🚧 Proyecto actual: ERP para Club de Tenis 🎾
+
+Actualmente estoy desarrollando un **ERP para un club de tenis**, donde aplico y amplío mis conocimientos como **Project Manager y Full Stack Developer**:
+
+- 🛠️ **Backend:** Java + Spring Boot, arquitectura modular, control de usuarios y roles.
+- 🎨 **Frontend:** Tailwind CSS y HTML, interfaces limpias y funcionales.
+- 🗂️ **Bases de datos:** MySQL y MongoDB.
+- 🗓️ Módulos de gestión de jugadores, ligas, categorías, calendario de partidos e inscripciones.
+- 📈 Metodología **Agile con Trello** y control de versiones con GitHub.
+- 🤝 Comunicación constante con el cliente para definir requisitos reales y funcionales.
+- 🎯 Objetivo: Mejorar procesos de gestión y digitalización del club mientras aprendo buenas prácticas de desarrollo y despliegue.
+
 ---
 
 ## 📸 Vistazo al proyecto

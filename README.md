@@ -86,32 +86,32 @@ A continuación comparto capturas del **ERP del Club de Tenis**, mostrando difer
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/19b149d8-a9ec-4def-8e14-31982fe6666a" alt="Login y registro de usuarios" width="400"/><br>
-  <strong>🔐 Pantalla de login y registro de usuarios</strong>: Gestión de acceso con validaciones y control de roles.
+  <strong>🔑 Login y registro de usuarios</strong>: Gestión de acceso con validaciones y control de roles mediante Spring Security.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92480048-f5b9-427f-a637-9a6c7a64236b" alt="Panel de administración" width="400"/><br>
-  <strong>🛠️ Panel de administración</strong>: Vista general para gestionar usuarios, ligas, equipos y calendario de partidos.
+  <img src="https://github.com/user-attachments/assets/c56e01d3-be48-4ab6-8a10-5aec217e0214" alt="Panel de administración" width="400"/><br>
+  <strong>🖥️ Panel de administración</strong>: Vista general para gestionar usuarios, ligas, equipos, eventos y calendario de partidos.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/60f9bd7e-b14d-4e44-849e-bcb443f80a4c" alt="Gestión de ligas y categorías" width="400"/><br>
-  <strong>🎾 Gestión de ligas y categorías</strong>: Crear, editar y asignar jugadores a ligas y categorías según rangos de edad.
+  <img src="https://github.com/user-attachments/assets/60f9bd7e-b14d-4e44-849e-bcb443f80a4c" alt="Gestión de jugadores" width="400"/><br>
+  <strong>🎾 Gestión de jugadores</strong>: Crear, editar y eliminar jugadores, asignando automáticamente el rol de jugador al crearlos.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bfaade20-b2c9-430c-ae45-1a4a91f65fca" alt="Calendario de partidos" width="400"/><br>
-  <strong>📅 Calendario de partidos</strong>: Visualización de partidos programados, con control de fechas y horarios.
+  <img src="https://github.com/user-attachments/assets/bfaade20-b2c9-430c-ae45-1a4a91f65fca" alt="Formularios con validaciones" width="400"/><br>
+  <strong>✅ Formularios con validaciones</strong>: Formularios de creación y edición con validación de campos en frontend y backend.
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/51660ca8-ed11-433b-a752-802f5c52e626" alt="Gestión de equipos" width="400"/><br>
-  <strong>👥 Gestión de equipos</strong>: Asignación de jugadores a equipos, configuración de titulares y suplentes.
+  <strong>👥 Gestión de equipos</strong>: Asignación de jugadores a equipos, con configuración de titulares y suplentes.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/43a2e6ac-911b-436d-8267-08f281848a3f" alt="Estadísticas y resumen" width="400"/><br>
-  <strong>📊 Estadísticas y resumen</strong>: Resumen de actividad, partidos jugados y rendimiento de jugadores.
+  <img src="https://github.com/user-attachments/assets/43a2e6ac-911b-436d-8267-08f281848a3f" alt="Funcionalidades personalizadas" width="400"/><br>
+  <strong>⚙️ Funcionalidades personalizadas</strong>: Flujo de aplicación y funcionalidades desarrolladas según peticiones del cliente.
 </p>
 
 ---

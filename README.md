@@ -135,7 +135,7 @@ A continuación comparto capturas del **ERP del Club de Tenis**, mostrando difer
 
 ### 📱 Android App: School Quest
 
-Aplicación móvil desarrollada con **Kotlin para Android**, utilizando **Firebase** como backend para autenticación y almacenamiento de datos. Fue publicada en **Google Play Store** como proyecto académico final, destacando el trabajo en equipo, la planificación ágil y el diseño de una interfaz intuitiva para la gestión de clases, exámenes y tareas de estudiantes.
+Aplicación móvil desarrollada con **Kotlin para Android**, utilizando **Firebase** como backend para autenticación y almacenamiento de datos. Diseñada para que **profesores pudieran crear retos y tareas que los alumnos completaran**, incorporando un **sistema de premios, ranking y puntuaciones** para motivar el aprendizaje de forma divertida e interactiva.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Kq8xfwZluA8" target="_blank">
@@ -147,4 +147,5 @@ Aplicación móvil desarrollada con **Kotlin para Android**, utilizando **Fireba
 - 📄 **[Ver documentación](https://docs.google.com/document/d/1-8_msmNIkf8PBoie1wNSiQv_DNjFEL184rGtAv92KkQ/edit#heading=h.ekdv5ebyxdy6)**
 
 ---
+
 

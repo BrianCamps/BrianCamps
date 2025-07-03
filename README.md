@@ -138,12 +138,12 @@ A continuación comparto capturas del **ERP del Club de Tenis**, mostrando difer
 Aplicación móvil desarrollada con **Kotlin para Android**, utilizando **Firebase** como backend para autenticación y almacenamiento de datos. Diseñada para que **profesores pudieran crear retos y tareas que los alumnos completaran**, incorporando un **sistema de premios, ranking y puntuaciones** para motivar el aprendizaje de forma divertida e interactiva.
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Kq8xfwZluA8" target="_blank">
-    <img src="https://img.youtube.com/vi/Kq8xfwZluA8/0.jpg" alt="School Quest - YouTube Video" width="600"/>
+  <a href="https://drive.google.com/file/d/1r3ca30jJdivdAt7sYKUimxxR03NKPMHU/view?usp=sharing" target="_blank">
+    <img src="https://img.icons8.com/color/452/google-drive--v2.png" alt="Ver demo en Drive" width="150"/>
   </a>
 </p>
 
-- 📄 **[Ver documentación](https://docs.google.com/document/d/1-8_msmNIkf8PBoie1wNSiQv_DNjFEL184rGtAv92KkQ/edit#heading=h.ekdv5ebyxdy6)**
+- 📄 **[Ver documentación](https://docs.google.com/document/d/1-Ym7iMVhLkVypdZnu8ka4tULFh0VfHfZjvvicdUvOwQ/edit?usp=sharing)**
 
 ---
 

@@ -143,7 +143,6 @@ Aplicación móvil desarrollada con **Kotlin para Android**, utilizando **Fireba
   </a>
 </p>
 
-- 📱 **[Descargar en Play Store](https://play.google.com/store/apps/details?id=com.squest.schoolquest)**
 - 📄 **[Ver documentación](https://docs.google.com/document/d/1-8_msmNIkf8PBoie1wNSiQv_DNjFEL184rGtAv92KkQ/edit#heading=h.ekdv5ebyxdy6)**
 
 ---

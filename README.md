@@ -135,16 +135,23 @@ A continuación comparto capturas del **ERP del Club de Tenis**, mostrando difer
 
 ### 📱 Android App: School Quest
 
-Aplicación móvil desarrollada con **Kotlin para Android**, utilizando **Firebase** como backend para autenticación y almacenamiento de datos. Diseñada para que **profesores pudieran crear retos y tareas que los alumnos completaran**, incorporando un **sistema de premios, ranking y puntuaciones** para motivar el aprendizaje de forma divertida e interactiva.
-
 <p align="center">
-  <a href="https://drive.google.com/file/d/1r3ca30jJdivdAt7sYKUimxxR03NKPMHU/view?usp=sharing" target="_blank">
-    <img src="https://img.icons8.com/color/452/google-drive--v2.png" alt="Ver demo en Drive" width="150"/>
-  </a>
+  <img src="https://github.com/user-attachments/assets/f4990dda-dd7b-4e45-8a3b-eec7e9e2e383" alt="Logo School Quest" width="150"/>
 </p>
 
-- 📄 **[Ver documentación](https://docs.google.com/document/d/1-Ym7iMVhLkVypdZnu8ka4tULFh0VfHfZjvvicdUvOwQ/edit?usp=sharing)**
+Aplicación móvil desarrollada con **Kotlin para Android**, utilizando **Firebase** como backend para autenticación y almacenamiento de datos. Diseñada para que **profesores pudieran crear retos y tareas que los alumnos completaran**, incorporando un **sistema de premios, ranking y puntuaciones** para motivar el aprendizaje de forma divertida e interactiva.
+
+- 🎥 **[Ver demo en vídeo](https://drive.google.com/file/d/1r3ca30jJdivdAt7sYKUimxxR03NKPMHU/view?usp=sharing)**
+
+### 📸 Imágenes de muestra
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24d011c7-6bef-48c4-bf2d-5dddc99f6e32" alt="School Quest 1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1b87ccf3-6077-468f-ba62-08f8b382f660" alt="School Quest 2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/61110986-0408-49c8-a923-17d4af38323f" alt="School Quest 3" width="300"/>
+</p>
 
 ---
+
 
 
